@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//
+//Início da tarefa em 22/05/2025, às 10h50min
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
